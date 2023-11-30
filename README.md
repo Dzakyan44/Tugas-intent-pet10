@@ -284,8 +284,9 @@ Jika awal pembuatan project kita memilih template Empty Views Activity, maka pad
 ```
 
 > - Maka tampilan menu utama akan seperti ini :
+![Screenshot_20231130-125851](https://github.com/Dzakyan44/Tugas-intent-pet10/assets/150989452/eb295dc6-5443-4b84-9390-1de70c708c9f)
 
-![WhatsApp Image 2023-11-28 at 21 28 52_8da8d5d2](https://github.com/syifaaurellia/IntentProject2/assets/115867244/62ab10ca-0192-48a1-b22a-5d771d8fda4c)
+
 
 > - Setelah itu kita buka `MainActivity.java` untuk menambahkan code intent untuk masing-masing tombol :
 ```
